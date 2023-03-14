@@ -6,7 +6,8 @@ body {
     margin: 0;
 }
 .header {
-    background: url(/img/layer13.png) no-repeat;
+    /* background: url(/img/layer13.png) no-repeat; */
+    background: url(/img/coloredbackground.jpg) no-repeat;
     background-size: cover;
     height: 696px;
 }
