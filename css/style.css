@@ -7,7 +7,8 @@ body {
 }
 .header {
     /* background: url(/img/layer13.png) no-repeat; */
-    background-image: url(/img/layer13.png);
+    background-image: url(../img/layer13.png);
+    background-repeat: no-repeat;
     background-size: cover;
     height: 696px;
 }
